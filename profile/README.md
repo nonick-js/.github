@@ -6,3 +6,4 @@ Discordサーバーの運営に便利な機能を搭載したDiscordBotです。
 ## 🔗リンク
 * サポートサーバー: https://discord.gg/q4FcBm2P42
 * Webダッシュボード: https://dashboard.nonick-js.com
+* ロードマップ: https://github.com/orgs/nonick-js/projects/1
