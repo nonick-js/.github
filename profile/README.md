@@ -1,4 +1,3 @@
-# NoNICK.js
 ![banner](/assets/banner.png)
 
 Discordサーバーの運営に便利な機能を搭載したDiscordBotです。  
