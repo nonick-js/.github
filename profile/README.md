@@ -1,3 +1,7 @@
+> [!TIP]
+> NoNICK.js関連のリポジトリは https://github.com/nonick-mc/nonick.js に統一されました！  
+> メンテナンスは移行後のリポジトリで行っています。
+
 ![banner](/assets/banner.png)
 
 Discordサーバーの運営に便利な機能を搭載したDiscordBotです。  
